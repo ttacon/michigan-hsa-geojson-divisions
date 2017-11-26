@@ -17,7 +17,7 @@ const hsaColors = {
     hsa5: '#ff8000', // orange
     hsa6: '#6600cc', // purple
     hsa7: '#000000', // black
-    hsa8: '#a0a0a0' // grey
+    hsa8: '#ff66ff' // pink
 };
 
 for (let i = 1; i < 9; i++) {

@@ -4376,7 +4376,7 @@
                 "kind": "county",
                 "name": "Alger",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4491,7 +4491,7 @@
                 "kind": "county",
                 "name": "Baraga",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4582,7 +4582,7 @@
                 "kind": "county",
                 "name": "Chippewa",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4781,7 +4781,7 @@
                 "kind": "county",
                 "name": "Delta",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4928,7 +4928,7 @@
                 "kind": "county",
                 "name": "Dickinson",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5015,7 +5015,7 @@
                 "kind": "county",
                 "name": "Gogebic",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5110,7 +5110,7 @@
                 "kind": "county",
                 "name": "Houghton",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5217,7 +5217,7 @@
                 "kind": "county",
                 "name": "Iron",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5304,7 +5304,7 @@
                 "kind": "county",
                 "name": "Keweenaw",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5427,7 +5427,7 @@
                 "kind": "county",
                 "name": "Luce",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5482,7 +5482,7 @@
                 "kind": "county",
                 "name": "Mackinac",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5641,7 +5641,7 @@
                 "kind": "county",
                 "name": "Marquette",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5764,7 +5764,7 @@
                 "kind": "county",
                 "name": "Menominee",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5895,7 +5895,7 @@
                 "kind": "county",
                 "name": "Ontonagon",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5998,7 +5998,7 @@
                 "kind": "county",
                 "name": "Schoolcraft",
                 "state": "MI",
-                "fill": "#a0a0a0"
+                "fill": "#ff66ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
