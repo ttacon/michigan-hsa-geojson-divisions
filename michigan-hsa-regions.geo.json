@@ -7,6 +7,7 @@
         "kind": "HSA",
         "hsa": 1
       },
+        "style": { "fill": "red" },
       "features": [
         {
           "type": "FeatureCollection",
