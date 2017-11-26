@@ -25,8 +25,7 @@ for (let i = 1; i < 9; i++) {
         type: 'FeatureCollection',
         properties: {
             kind: 'HSA',
-            hsa: i,
-            fill: hsaColors[`hsa${i}`]
+            hsa: i
         },
         features: []
     };
@@ -95,6 +94,10 @@ for (const file of files) {
             hsa = hsaName;
             break;
         }
+    }
+
+    for (const feature of polygon.features) {
+        feature.properties.fill = hsaColors[hsa];
     }
 
     if (!hsa) {

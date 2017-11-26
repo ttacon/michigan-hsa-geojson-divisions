@@ -5,16 +5,14 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 1,
-        "fill": "#0000ff"
+        "hsa": 1
       },
       "features": [
         {
           "type": "FeatureCollection",
           "properties": {
             "kind": "state",
-              "state": "MI",
-              "fill": "#ff0000"
+            "state": "MI"
           },
           "features": [
             {
@@ -22,7 +20,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Livingston",
-                  "state": "MI"
+                "state": "MI",
+                "fill": "#0000ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -72,7 +71,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Macomb",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#0000ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -142,7 +142,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Monroe",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#0000ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -204,7 +205,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Oakland",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#0000ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -258,7 +260,8 @@
               "properties": {
                 "kind": "county",
                 "name": "St. Clair",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#0000ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -340,7 +343,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Washtenaw",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#0000ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -390,7 +394,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Wayne",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#0000ff"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -462,8 +467,7 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 2,
-        "fill": "#ff0000"
+        "hsa": 2
       },
       "features": [
         {
@@ -478,7 +482,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Clinton",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff0000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -528,7 +533,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Eaton",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff0000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -582,7 +588,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Hillsdale",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff0000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -636,7 +643,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Ingham",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff0000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -686,7 +694,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Jackson",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff0000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -740,7 +749,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Lenawee",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff0000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -788,8 +798,7 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 3,
-        "fill": "#00ff00"
+        "hsa": 3
       },
       "features": [
         {
@@ -804,7 +813,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Barry",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -858,7 +868,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Berrien",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -920,7 +931,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Branch",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -970,7 +982,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Calhoun",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1028,7 +1041,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Cass",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1082,7 +1096,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Kalamazoo",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1132,7 +1147,8 @@
               "properties": {
                 "kind": "county",
                 "name": "St. Joseph",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1190,7 +1206,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Van Buren",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#00ff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1242,8 +1259,7 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 4,
-        "fill": "#ffff00"
+        "hsa": 4
       },
       "features": [
         {
@@ -1258,7 +1274,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Allegan",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1316,7 +1333,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Ionia",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1370,7 +1388,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Kent",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1432,7 +1451,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Lake",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1482,7 +1502,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Mason",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1528,7 +1549,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Mecosta",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1578,7 +1600,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Montcalm",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1644,7 +1667,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Muskegon",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1706,7 +1730,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Newaygo",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1764,7 +1789,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Oceana",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1814,7 +1840,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Osceola",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1868,7 +1895,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Ottawa",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ffff00"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1920,8 +1948,7 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 5,
-        "fill": "#ff8000"
+        "hsa": 5
       },
       "features": [
         {
@@ -1936,7 +1963,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Genesee",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff8000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -1998,7 +2026,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Lapeer",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff8000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2068,7 +2097,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Shiawassee",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#ff8000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2120,8 +2150,7 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 6,
-        "fill": "#6600cc"
+        "hsa": 6
       },
       "features": [
         {
@@ -2136,7 +2165,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Arenac",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2214,7 +2244,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Bay",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2312,7 +2343,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Clare",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2362,7 +2394,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Gladwin",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2420,7 +2453,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Gratiot",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2478,7 +2512,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Huron",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2564,7 +2599,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Iosco",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2622,7 +2658,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Isabella",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2676,7 +2713,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Midland",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2730,7 +2768,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Ogemaw",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2784,7 +2823,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Roscommon",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2834,7 +2874,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Saginaw",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2916,7 +2957,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Sanilac",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -2978,7 +3020,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Tuscola",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#6600cc"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3058,8 +3101,7 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 7,
-        "fill": "#000000"
+        "hsa": 7
       },
       "features": [
         {
@@ -3074,7 +3116,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Alcona",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3124,7 +3167,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Alpena",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3190,7 +3234,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Antrim",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3264,7 +3309,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Benzie",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3322,7 +3368,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Charlevoix",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3436,7 +3483,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Cheboygan",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3502,7 +3550,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Crawford",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3552,7 +3601,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Emmet",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3642,7 +3692,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Grand Traverse",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3732,7 +3783,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Kalkaska",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3782,7 +3834,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Leelanau",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3916,7 +3969,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Manistee",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -3970,7 +4024,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Missaukee",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4016,7 +4071,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Montmorency",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4070,7 +4126,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Oscoda",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4120,7 +4177,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Otsego",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4174,7 +4232,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Presque Isle",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4252,7 +4311,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Wexford",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#000000"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4300,8 +4360,7 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 8,
-        "fill": "#a0a0a0"
+        "hsa": 8
       },
       "features": [
         {
@@ -4316,7 +4375,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Alger",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4430,7 +4490,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Baraga",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4520,7 +4581,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Chippewa",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4718,7 +4780,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Delta",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4864,7 +4927,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Dickinson",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -4950,7 +5014,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Gogebic",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5044,7 +5109,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Houghton",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5150,7 +5216,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Iron",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5236,7 +5303,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Keweenaw",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5358,7 +5426,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Luce",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5412,7 +5481,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Mackinac",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5570,7 +5640,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Marquette",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5692,7 +5763,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Menominee",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5822,7 +5894,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Ontonagon",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -5924,7 +5997,8 @@
               "properties": {
                 "kind": "county",
                 "name": "Schoolcraft",
-                "state": "MI"
+                "state": "MI",
+                "fill": "#a0a0a0"
               },
               "geometry": {
                 "type": "MultiPolygon",
