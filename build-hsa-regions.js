@@ -9,12 +9,24 @@ const stateFile = {
 
 const hsas = {};
 
+const hsaColors = {
+    hsa1: '#0000ff', // blue
+    hsa2: '#ff0000', // red
+    hsa3: '#00ff00', // green
+    hsa4: '#ffff00', // yellow
+    hsa5: '#ff8000', // orange
+    hsa6: '#6600cc', // purple
+    hsa7: '#000000', // black
+    hsa8: '#a0a0a0' // grey
+};
+
 for (let i = 1; i < 9; i++) {
     const hsaObj = {
         type: 'FeatureCollection',
         properties: {
             kind: 'HSA',
-            hsa: i
+            hsa: i,
+            fill: hsaColors[`hsa${i}`]
         },
         features: []
     };

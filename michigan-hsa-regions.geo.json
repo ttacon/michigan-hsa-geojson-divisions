@@ -5,15 +5,16 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 1
+        "hsa": 1,
+        "fill": "#0000ff"
       },
-        "style": { "fill": "red" },
       "features": [
         {
           "type": "FeatureCollection",
           "properties": {
             "kind": "state",
-            "state": "MI"
+              "state": "MI",
+              "fill": "#ff0000"
           },
           "features": [
             {
@@ -21,7 +22,7 @@
               "properties": {
                 "kind": "county",
                 "name": "Livingston",
-                "state": "MI"
+                  "state": "MI"
               },
               "geometry": {
                 "type": "MultiPolygon",
@@ -461,7 +462,8 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 2
+        "hsa": 2,
+        "fill": "#ff0000"
       },
       "features": [
         {
@@ -786,7 +788,8 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 3
+        "hsa": 3,
+        "fill": "#00ff00"
       },
       "features": [
         {
@@ -1239,7 +1242,8 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 4
+        "hsa": 4,
+        "fill": "#ffff00"
       },
       "features": [
         {
@@ -1916,7 +1920,8 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 5
+        "hsa": 5,
+        "fill": "#ff8000"
       },
       "features": [
         {
@@ -2115,7 +2120,8 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 6
+        "hsa": 6,
+        "fill": "#6600cc"
       },
       "features": [
         {
@@ -3052,7 +3058,8 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 7
+        "hsa": 7,
+        "fill": "#000000"
       },
       "features": [
         {
@@ -4293,7 +4300,8 @@
       "type": "FeatureCollection",
       "properties": {
         "kind": "HSA",
-        "hsa": 8
+        "hsa": 8,
+        "fill": "#a0a0a0"
       },
       "features": [
         {
